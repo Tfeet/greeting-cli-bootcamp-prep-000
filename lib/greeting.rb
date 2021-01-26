@@ -1,2 +1,2 @@
 # code the #greeting method here!
-puts "Hello "
+puts "Hello #{name}. It's nice to meet you"
